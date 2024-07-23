@@ -24,7 +24,7 @@ const Hero = () => {
                     words="Transforming Concepts into Seamless User Experiences"
                 />
                 <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                    Hi! I&apos;m Ankit, a Fullstack Developer based in India.
+                    Hi! I&apos;m Ankit, a Frontend Developer based in India.
                 </p>
                 <a href="/Ankit_Ray_Resume.pdf" download="Ankit_Ray_Resume.pdf">
                     <MagicButton

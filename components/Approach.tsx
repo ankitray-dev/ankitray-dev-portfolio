@@ -14,7 +14,7 @@ const Approach = () => {
         <Card
           title="Planning and Design"
           icon={<AceternityIcon order="Phase 1" />}
-          des="Identify the app's purpose, target audience, and gather requirements. Develop a project plan with clear milestones and choose suitable technologies for the front-end, back-end, and database."
+          des="Gather requirements, research, create wireframes, and design a responsive user interface."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -24,7 +24,7 @@ const Approach = () => {
         <Card
           title="Development"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Design and implement the user interface, focusing on responsive and user-friendly design. Set up the server, database, and APIs, ensuring secure and efficient data handling and business logic implementation."
+          des="Set up the development environment, convert designs into code, integrate APIs, manage state, and conduct testing."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -39,7 +39,7 @@ const Approach = () => {
         <Card
           title="Testing and Deployment"
           icon={<AceternityIcon order="Phase 3" />}
-          des="Conduct thorough testing to identify and fix bugs. Deploy the app to a production environment, monitor performance, and perform regular updates and maintenance."
+          des="Optimize performance, deploy using CI/CD pipelines, monitor and improve based on feedback, and maintain documentation and updates."
         >
           <CanvasRevealEffect
             animationSpeed={3}
