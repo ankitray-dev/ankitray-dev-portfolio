@@ -17,7 +17,7 @@ const Approach = () => {
           des="Gather requirements, research, create wireframes, and design a responsive user interface."
         >
           <CanvasRevealEffect
-            animationSpeed={5.1}
+            animationSpeed={3}
             containerClassName="bg-emerald-900 rounded-3xl overflow-hidden"
           />
         </Card>
