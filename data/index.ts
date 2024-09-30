@@ -72,6 +72,7 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
+      name: "Project||1",
       title: "Uni-Message - AI-integrated website",
       des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
       img: "/p1.svg",
@@ -80,6 +81,7 @@ export const navItems = [
     },
     {
       id: 2,
+      name: "Project||2",
       title: "Just-Like-Docs",
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
       img: "/p2.svg",
@@ -88,6 +90,7 @@ export const navItems = [
     },
     {
       id: 3,
+      name: "Project||3",
       title: "AI Image SaaS - Canva Application",
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.svg",
@@ -96,6 +99,7 @@ export const navItems = [
     },
     {
       id: 4,
+      name: "Project||4",
       title: "Animated Apple Iphone 3D Website",
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
@@ -104,6 +108,7 @@ export const navItems = [
     },
     {
       id: 5,
+      name: "Project||5",
       title: "Animated Apple Iphone 3D Website",
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
@@ -112,6 +117,7 @@ export const navItems = [
     },
     {
       id: 6,
+      name: "Project||6",
       title: "Animated Apple Iphone 3D Website",
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
       img: "/p4.svg",
